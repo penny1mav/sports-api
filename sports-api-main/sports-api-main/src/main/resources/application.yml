@@ -1,0 +1,22 @@
+spring:
+  application:
+    name: sports-api
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/sports_api_db
+    username: postgres
+    password: postgres
+    driverClassName: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+springdoc:
+  api-docs:
+    path: /api-docs
+  swagger-ui:
+    path: /swagger-ui/index.html
+
+server:
+  port: 8080
