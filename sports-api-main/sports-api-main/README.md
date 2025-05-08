@@ -113,4 +113,4 @@ Open a pull request to merge changes into the main branch.
 This project is All Rights Reserved by Marina Kyr. No part of this repository, including code, documentation, or any other content, may be copied, modified, distributed, or used in any manner without explicit permission from the owner.
 
 ## Contact
-For questions or support, open an issue in the repository or email Marina Kyr at marina.k.1998@gmail.com.
+For questions or support, open an issue in the repository or email Marina Kyr at peny.mavroidi@gmail.com
